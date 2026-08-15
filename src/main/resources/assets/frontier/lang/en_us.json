@@ -1,0 +1,40 @@
+{
+  "title.frontier.config": "Frontier by Myarru (0^0)❤ ",
+
+  "message.frontier.barrier_limit": "The limit has been reached, please wait for the limit to be updated.! :<",
+
+  "category.frontier.general": "Basic mod settings",
+  "config.frontier.initial_barrier": "Initial Barrier: ",
+  "config.frontier.barrier_speed": "Barrier Speed:",
+  "config.frontier.boolimit": "Limit On Increase?",
+  "config.frontier.limit": "Limit Size: ",
+  "config.frontier.timelimit": "Recovery Time:",
+  "category.frontier.mode_setting": "Mode Settings: ",
+  "config.frontier.bootimemode": "Time Increase Mode? ",
+  "config.frontier.barrier_increase_size": "Barrier Increase Size: ",
+  "config.frontier.time_mode_speed": "Time To Increase: ",
+  "config.frontier.booadvensents": "Adventure Mode? ",
+  "config.frontier.advensents": "Completing the Achievement:",
+  "config.frontier.goal": "Completing the Goal: ",
+  "config.frontier.challenge": "Completing the Challenge:",
+  "config.frontier.small_bar": "Small Barrier: ",
+  "config.frontier.big_bar": "Big Barrier: ",
+
+  "config.frontier.initial_barrier.tooltip": "Barrier size at world creation",
+  "config.frontier.barrier_speed.tooltip": "Barrier increase speed",
+  "config.frontier.boolimit.tooltip": "Limit on limiting barrier increase, resets over time",
+  "config.frontier.limit.tooltip": "Barrier increase limit size",
+  "config.frontier.timelimit.tooltip": "Limit refresh time",
+  "config.frontier.bootimemode.tooltip": "'Time mode' - when the barrier increases once every certain time",
+  "config.frontier.barrier_increase_size.tooltip": "Barrier increase size",
+  "config.frontier.time_mode_speed.tooltip": "Time interval at which the barrier increases",
+  "config.frontier.booadvensents.tooltip": "'Achievement mode' - when Completing achievements increases the barrier",
+  "config.frontier.advensents.tooltip": "The number of blocks by which the barrier increases when completing an achievement",
+  "config.frontier.goal.tooltip": "The number of blocks by which the barrier increases when completing a goal",
+  "config.frontier.challenge.tooltip": "The number of blocks by which the barrier increases when completing a challenge",
+  "config.frontier.small_bar.tooltip": "How many blocks does the Small Barrier add",
+  "config.frontier.big_bar.tooltip": "How many blocks does the Large Barrier add,",
+
+  "item.frontier.small_barrier": "Small Barrier",
+  "item.frontier.big_barrier": "Big Barrier"
+}

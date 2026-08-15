@@ -1,0 +1,40 @@
+{
+  "title.frontier.config": "Frontier от Myarru (0^0)❤ ",
+
+  "message.frontier.barrier_limit": "Лимит исчерпан, подождите обновления лимита! :<",
+
+  "category.frontier.general": "Основные Настройки",
+  "config.frontier.initial_barrier": "Начальный Барьер: ",
+  "config.frontier.barrier_speed": "Скорость Барьера:",
+  "config.frontier.boolimit": "Ограничение на Увилечение?",
+  "config.frontier.limit": "Размер Ограничения:",
+  "config.frontier.timelimit": "Время Восстановления:",
+  "category.frontier.mode_setting": "Настройки Режимов",
+  "config.frontier.bootimemode": "Режим Увеличения По Времени? ",
+  "config.frontier.barrier_increase_size": "Размер Увеличения барьера:",
+  "config.frontier.time_mode_speed": "Время следующего увеличения:",
+  "config.frontier.booadvensents": "Режим Достижений? ",
+  "config.frontier.advensents": "Выполнение Достижения:",
+  "config.frontier.goal": "Выполнение Цели: ",
+  "config.frontier.challenge": "Выполнение Челинджа: ",
+  "config.frontier.small_bar": "Небольшой Барьер:",
+  "config.frontier.big_bar": "Большой Барьер: ",
+
+  "config.frontier.initial_barrier.tooltip": "Размер барьера при создании мира",
+  "config.frontier.barrier_speed.tooltip": "Скорость увеличения барьера",
+  "config.frontier.boolimit.tooltip": "Лимит на ограничение увеличения барьера, сбрасывается со временем",
+  "config.frontier.limit.tooltip": "Размер лимита на увеличение барьера",
+  "config.frontier.timelimit.tooltip": "Время обновления лимита",
+  "config.frontier.bootimemode.tooltip": "'режим Времени'- когда барьер увеличивается раз в какое то время",
+  "config.frontier.barrier_increase_size.tooltip": "Размер увеличения барьера ",
+  "config.frontier.time_mode_speed.tooltip": "Раз в какое время увеличивается барьер",
+  "config.frontier.booadvensents.tooltip": "'Режим Достижений'- при выполнений достижений, барьер увеличивается",
+  "config.frontier.advensents.tooltip": "Количество блоков на которое увеличивается барьер при выполнении достижения",
+  "config.frontier.goal.tooltip": "Количество блоков на которое увеличивается барьер при выполнении цели",
+  "config.frontier.challenge.tooltip": "Количество блоков на которое увеличивается барьер при выполнении челенджа",
+  "config.frontier.small_bar.tooltip": "Сколько блоков прибавляет Небольшой барьер",
+  "config.frontier.big_bar.tooltip": "Сколько блоков прибавляет Большой барьер",
+
+  "item.frontier.small_barrier": "Небольшой барьер",
+  "item.frontier.big_barrier": "Большой Барьер"
+}

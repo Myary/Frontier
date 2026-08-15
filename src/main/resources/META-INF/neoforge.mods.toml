@@ -36,17 +36,21 @@ displayName="${mod_name}" #mandatory
 #displayURL="https://change.me.to.your.mods.homepage.example.invalid/" #optional
 
 # A file name (in the root of the mod JAR) containing a logo for display
-#logoFile="examplemod.png" #optional
+logoFile="logo.png" #optional
 
 # A text field displayed in the mod UI
 #credits="" #optional
 
 # The authors of the mod, displayed in the mod UI (optional)
-#authors=""
+authors="Myarry"
 
 # The description text for the mod (multi line!) (#mandatory)
 description='''
-Example mod description.
+Instead of standard survival, you start with a small barrier. Increase it:
+⌛ over time (automatically)
+👑 for achievements (as a reward)
+🏮 using special items (game progress)
+All parameters are flexibly adjustable through the configs. It gives a pleasant feeling of security.
 '''
 
 # The [[mixins]] block allows you to declare your mixin config to FML so that it gets loaded.
@@ -81,10 +85,10 @@ Example mod description.
 
 # Here's another dependency
 [[dependencies.${mod_id}]]
-    modId="minecraft"
+    modId="cloth_config"
     type="required"
     # This version range declares a minimum of the current minecraft version up to but not including the next major version
-    versionRange="${minecraft_version_range}"
+    versionRange="[15.0.140,)"
     ordering="NONE"
     side="BOTH"
 
